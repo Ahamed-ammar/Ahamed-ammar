@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me  
 ```yaml
-Name: Your Name
+Name: Ahamed Ammar A
 Role: 3rd Year CS Student
 Focus: DSA + Full Stack Development
 Currently_Learning: ReactJS, NodeJS

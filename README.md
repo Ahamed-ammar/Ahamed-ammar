@@ -27,18 +27,6 @@
 
 ---
 
-## ⚡ Tech Stack Overview
-
-| **Category** | **Technologies** |
-|:--------------|:-----------------|
-| 🧠 **Languages** | C++ · Java · Python · JavaScript |
-| 🎨 **Frontend** | HTML · CSS · ReactJS |
-| ⚙️ **Backend** | NodeJS · ExpressJS · Spring Boot |
-| 🗄️ **Database** | MySQL · MongoDB · PostgreSQL |
-| 🧰 **Tools** | Git · Maven · VS Code |
-
----
-
 ## 🌟 Fun Fact
 
 I’m on a mission to **solve all 455 problems** in **Striver’s DSA Sheet** 🚀  
@@ -48,7 +36,7 @@ I’m on a mission to **solve all 455 problems** in **Striver’s DSA Sheet** �
 ## 📫 How to Reach Me
 
 ✉️ **Email:** [ahamedammar25@gmail.com](mailto:ahamedammar25@gmail.com)  
-💼 **LinkedIn:** [Your LinkedIn Profile Link Here](#)  
+💼 **LinkedIn:** [nkedin.com/in/ahamed-ammar-954433322/](#)  
 💬 **Discord:** [Your Discord Tag Here](#)  
 
 ---

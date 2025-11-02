@@ -30,15 +30,6 @@
 ## 🌟 Fun Fact
 
 I’m on a mission to **solve all 455 problems** in **Striver’s DSA Sheet** 🚀  
-
----
-
-## 📫 How to Reach Me
-
-✉️ **Email:** [ahamedammar25@gmail.com](mailto:ahamedammar25@gmail.com)  
-💼 **LinkedIn:** [nkedin.com/in/ahamed-ammar-954433322/](#)  
-💬 **Discord:** [Your Discord Tag Here](#)  
-
 ---
 
 ⭐ *“Code. Learn. Build. Repeat.”*

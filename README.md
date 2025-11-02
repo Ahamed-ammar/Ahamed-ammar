@@ -1,5 +1,66 @@
-# 💫 About Me:
-👋 Hi, I’m Ahamed Ammar<br><br>🎓 Computer Science and Business System Student (3rd Year) passionate about building scalable and user-friendly applications.<br>💻 Currently learning: ReactJS, NodeJS, Spring Boot and full-stack development.<br>📚 Focusing on: Data Structures & Algorithms (DSA), System Design, and Core CS fundamentals (OOP, DBMS, OS, CN).<br>🚀 Projects: Social Media for Learners, Real-Time Chat App, and more to come.<br>🎯 Goal: To land a role at top tech companies like Amazon, Microsoft, or Atlassian.<br>🌱 Interests: Full-stack development, DevOps, AI & Data Science.<br>📫 How to reach me: ahamedammar25@gmail.com<br><br>⚡ Tech Stack<br><br>Languages: C++, Java, Python and JavaScript<br><br>Frontend: HTML, CSS, ReactJS<br><br>Backend: NodeJS, ExpressJS and Spring Boot<br><br>Database: MySQL, MongoDB and postgreSQL.<br><br>Tools: Git, Maven, VS Code<br><br>🌟 Fun Fact<br><br>I’m on a journey to solve all 455 problems in Striver’s DSA Sheet 🚀
+# 💫 About Me
+
+👋 **Hi, I’m Ahamed Ammar**  
+🎓 *3rd Year Computer Science and Business Systems Student* passionate about building **scalable** and **user-friendly** applications.  
+
+---
+
+## 🚀 What I’m Currently Doing
+
+- 💻 **Learning:** ReactJS, NodeJS, Spring Boot, and Full-Stack Development  
+- 📚 **Focusing On:**  
+  - Data Structures & Algorithms (DSA)  
+  - System Design  
+  - Core CS Subjects — *OOP, DBMS, OS, CN*  
+- 🛠️ **Projects:**  
+  - Social Media for Learners 🌐  
+  - Real-Time Chat App 💬  
+  - *...and more exciting projects coming soon!*  
+
+---
+
+## 🎯 Career Goal
+
+To land a **Software Engineer role** at top-tier tech companies like **Amazon, Microsoft, or Atlassian**.  
+
+---
+
+## 🌱 Interests
+
+💡 Full-Stack Development  
+⚙️ DevOps  
+🧠 AI & Data Science  
+
+---
+
+## ⚡ Tech Stack Overview
+
+| **Category** | **Technologies** |
+|:--------------|:-----------------|
+| 🧠 **Languages** | C++ · Java · Python · JavaScript |
+| 🎨 **Frontend** | HTML · CSS · ReactJS |
+| ⚙️ **Backend** | NodeJS · ExpressJS · Spring Boot |
+| 🗄️ **Database** | MySQL · MongoDB · PostgreSQL |
+| 🧰 **Tools** | Git · Maven · VS Code |
+
+---
+
+## 🌟 Fun Fact
+
+I’m on a mission to **solve all 455 problems** in **Striver’s DSA Sheet** 🚀  
+
+---
+
+## 📫 How to Reach Me
+
+✉️ **Email:** [ahamedammar25@gmail.com](mailto:ahamedammar25@gmail.com)  
+💼 **LinkedIn:** [Your LinkedIn Profile Link Here](#)  
+💬 **Discord:** [Your Discord Tag Here](#)  
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
+
 
 
 ## 🌐 Socials:

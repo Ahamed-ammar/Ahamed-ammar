@@ -15,13 +15,7 @@
 - 🛠️ **Projects:**  
   - Social Media for Learners 🌐  
   - Real-Time Chat App 💬  
-  - *...and more exciting projects coming soon!*  
-
----
-
-## 🎯 Career Goal
-
-To land a **Software Engineer role** at top-tier tech companies like **Amazon, Microsoft, or Atlassian**.  
+  - *...and more exciting projects coming soon!*   
 
 ---
 

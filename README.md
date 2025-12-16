@@ -17,7 +17,7 @@ I believe in consistency over motivation — *learn daily, build weekly, ship mo
 ## 🔭 What I’m Working On
 
 * ⚛️ **Frontend:** React.js, Tailwind CSS, modern UI patterns
-* 🧠 **Problem Solving:** DSA (Striver Sheet – 455 problems)
+* 🧠 **Problem Solving:** Solved 800+ coding problems across all coding platforms.
 * 🏗️ **Backend:** Node.js, Express, Spring Boot
 * 📐 **System Design:** Low‑level design, scalability basics
 * 📚 **Core CS:** OOP, DBMS, OS, Computer Networks

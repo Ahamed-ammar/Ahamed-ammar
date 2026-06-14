@@ -31,9 +31,9 @@ I believe in consistency over motivation:
 
 | Project | Description | Tech Stack | Repository |
 |------|-----------|-----------|-----------|
-| **Movie-Mate 2.0** | A modern movie discovery and tracking platform with clean UI, efficient search, authentication, and backend APIs. | React, Node.js, Express, MongoDB | [GitHub](https://github.com/Ahamed-ammar/Movie-Mate2.0) |
-| **Vinyl Store** | A full-stack eCommerce application demonstrating real-world CRUD operations, product management, and secure backend logic. | Node.js, Express, MongoDB | [GitHub](https://github.com/Ahamed-ammar/Vinyl-Store) |
-| **Merge-Mind** | A collaborative full-stack application highlighting frontend-backend separation, REST API design, and state management. | React, Node.js, REST APIs | [GitHub](https://github.com/Ahamed-ammar/Merge-Mind) |
+| **Skill Tracker** | A modern movie discovery and tracking platform with clean UI, efficient search, authentication, and backend APIs. | React, Node.js, Express, MongoDB | [GitHub](https://github.com/Ahamed-ammar/Skill-Tracker) |
+| **ERP System** | A full-stack eCommerce application demonstrating real-world CRUD operations, product management, and secure backend logic. | Node.js, Express, MongoDB | [GitHub](https://github.com/Ahamed-ammar/ERP-System) |
+| **Movie Mate** | A collaborative full-stack application highlighting frontend-backend separation, REST API design, and state management. | React, Node.js, REST APIs | [GitHub](https://github.com/Ahamed-ammar/Movie-Mate-3.0) |
 
 > More advanced projects are in progress, with a strong focus on **scalability, system design, and real-world use cases**.
 
